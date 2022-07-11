@@ -318,7 +318,7 @@ img {
   position: absolute;
   display: flex;
   width: 370px;
-  height: 70px;
+  height: 71px;
   justify-content: center;
   align-items: center;
   font-family: var(--primary-font-family);
