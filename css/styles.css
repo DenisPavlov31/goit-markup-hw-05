@@ -89,6 +89,9 @@ img {
   color: var(--title-text-color);
   background-color: var(--background-secondary-color);
   cursor: pointer;
+  transition-property: color, background-color;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .button.primary,
